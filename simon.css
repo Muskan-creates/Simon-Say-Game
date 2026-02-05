@@ -1,0 +1,52 @@
+body{
+    background-color:blanchedalmond;
+    text-align:center;
+}
+.one{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:16px;
+}
+.two{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:16px;
+}
+.purple{
+    height:200px;
+    width:200px;
+    background-color:#819ff9;
+    border-radius: 20px;
+    border:5px solid black;
+}
+.red{
+   height:200px;
+   width:200px;
+   background-color:#d95980;
+   border-radius: 20px;
+   border:5px solid black;
+}
+.green{
+    height:200px;
+    width:200px;
+    background-color:#63aac0;
+    border-radius: 20px;
+    border:5px solid black;
+    margin-top:16px;
+}
+.yellow{
+    height:200px;
+    width:200px;
+    background-color:#f99b45;
+    border-radius: 20px;
+    border:5px solid black;
+    margin-top:16px;
+}
+.flash{
+    background-color:white;
+}
+.userflash{
+    background-color:green;
+}
